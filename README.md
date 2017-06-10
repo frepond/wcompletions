@@ -1,7 +1,7 @@
 wcompletions
 =====
 
-An escript to generate completions for [Erlang/OTP](https://github.com/frepond/erlang-vscode/tree/master) extension from workspace `*.beans`.
+An escript to generate completions for [Erlang/OTP VSCode extension](https://github.com/frepond/erlang-vscode/tree/master)  from workspace `*.beans`.
 
 Build
 -----
